@@ -1,0 +1,12 @@
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\bin\Debug\net6.0\DapperMvcDemo.Data.deps.json
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\bin\Debug\net6.0\DapperMvcDemo.Data.dll
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\bin\Debug\net6.0\DapperMvcDemo.Data.pdb
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\DapperMvcDemo.Data.csproj.AssemblyReference.cache
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\DapperMvcDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\DapperMvcDemo.Data.AssemblyInfoInputs.cache
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\DapperMvcDemo.Data.AssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\DapperMvcDemo.Data.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\DapperMvcDemo.Data.dll
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\refint\DapperMvcDemo.Data.dll
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\DapperMvcDemo.Data.pdb
+C:\Github\ASP App\ASP-Web-App\Dapper\DapperDemo1\DapperMvcDemo\obj\Debug\net6.0\ref\DapperMvcDemo.Data.dll

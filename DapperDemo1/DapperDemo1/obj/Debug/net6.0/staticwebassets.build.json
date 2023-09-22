@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "tHJrm5OghpjZ6vIERTteoc6JbTRBycTJQ724h6d6kUk=",
+  "Source": "DapperMvcDemo.UI",
+  "BasePath": "_content/DapperMvcDemo.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DapperMvcDemo.UI\\wwwroot",
+      "Source": "DapperMvcDemo.UI",
+      "ContentRoot": "C:\\Github\\ASP App\\ASP-Web-App\\Dapper\\DapperDemo1\\DapperDemo1\\wwwroot\\",
+      "BasePath": "_content/DapperMvcDemo.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Github\\ASP App\\ASP-Web-App\\Dapper\\DapperDemo1\\DapperDemo1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DapperMvcDemo.UI.styles.css",
+      "SourceId": "DapperMvcDemo.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Github\\ASP App\\ASP-Web-App\\Dapper\\DapperDemo1\\DapperDemo1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DapperMvcDemo.UI",
+      "RelativePath": "DapperMvcDemo.UI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Github\\ASP App\\ASP-Web-App\\Dapper\\DapperDemo1\\DapperDemo1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DapperMvcDemo.UI.styles.css"
+    },
+    {
+      "Identity": "C:\\Github\\ASP App\\ASP-Web-App\\Dapper\\DapperDemo1\\DapperDemo1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DapperMvcDemo.UI.bundle.scp.css",
+      "SourceId": "DapperMvcDemo.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Github\\ASP App\\ASP-Web-App\\Dapper\\DapperDemo1\\DapperDemo1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DapperMvcDemo.UI",
+      "RelativePath": "DapperMvcDemo.UI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Github\\ASP App\\ASP-Web-App\\Dapper\\DapperDemo1\\DapperDemo1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DapperMvcDemo.UI.bundle.scp.css"
+    }
+  ]
+}
